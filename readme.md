@@ -29,3 +29,10 @@ A simple, portfolio website built with **HTML** and **CSS** as a learning projec
 1. Clone this repository:
    ```bash
    git clone https://github.com/ashwinkumarkv7/learning-portfolio-UI.git
+
+---
+
+## 🔗 Live Preview
+
+[Click here to view the live site](https://ashwinkumarkv7.github.io/learning-portfolio-UI/)
+
