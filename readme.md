@@ -17,11 +17,16 @@ A simple, portfolio website built with **HTML** and **CSS** as a learning projec
 
 ![image](https://github.com/user-attachments/assets/d6ad4b62-d684-4e15-9358-c54a2ea9da00)
 
----
+
 
 ## About & Skill Section Screenshot
 
 ![image](https://github.com/user-attachments/assets/828c28e7-5a2e-47ba-b16c-cdc28eb6ddda)
+
+
+## Project Section
+
+![image](https://github.com/user-attachments/assets/2792367e-769f-4e13-8080-a95d46f8c982)
 
 ---
 ## How to Use
